@@ -1,3 +1,1 @@
-# Message Composer
-
-## Design Doc
+# Message Composer - Design Doc
